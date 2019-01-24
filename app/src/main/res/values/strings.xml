@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">pjct</string>
+    <string name="mydegree">highest degree</string>
+    <string-array name="DegreeList">
+        <item>BSc</item>
+        <item>MSc</item>
+        <item>BCA</item>
+        <item>MCA</item>
+
+    </string-array>
 </resources>

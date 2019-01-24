@@ -26,7 +26,12 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/admn"/>
+        android:id="@+id/admn"
+        android:text="degree"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:entries="@array/DegreeList"></Spinner>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
