@@ -4,4 +4,15 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="loginbutton">#00aabb</color>
+    <color name="startcolor">#b92b27</color>
+    <color name="endcolor">#1565C0</color>
+    <color name="firstcolor">#636363</color>
+    <color name="lastcolor">#a2ab58</color>
+    <color name="fcolor">#cc1515</color>
+    <color name="scolor">#E100FF</color>
+    <color name="ficolor">#C6426E</color>
+    <color name="addcolor">#D3CBB8</color>
+    <color name="subcolor">#ffc0cb</color>
+    <color name="mulcolor">#0575E6</color>
+    <color name="divcolor">#ad5389</color>
 </resources>
