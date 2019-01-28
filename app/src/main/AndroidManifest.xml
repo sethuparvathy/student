@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sethu.pjct">
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -20,7 +21,8 @@
         <activity android:name=".Add" />
         <activity android:name=".Subactivity" />
         <activity android:name=".Multipleactivity" />
-        <activity android:name=".viewall"></activity>
+        <activity android:name=".viewall" />
+        <activity android:name=".UserlistActivity"></activity>
     </application>
 
 </manifest>

@@ -58,6 +58,11 @@
         android:id="@+id/register"
         android:text="register"
         android:textSize="20dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/viewusers"
+            android:text="nextapp"/>
 
 </LinearLayout>
 </ScrollView>
